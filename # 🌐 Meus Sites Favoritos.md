@@ -51,7 +51,6 @@ Meus-Sites-Favoritos/
 ├── uol.png
 └── README.md
 
-```text
 ---
 
 📥 Como Executar o Projeto
