@@ -70,5 +70,4 @@ Opcional: Se estiver usando o VS Code, clique com o botão direito sobre o arqui
 👨‍💻 Autor
 Desenvolvido por Alexandre Pinheiro dos Santos
 
-Estudante de Sistemas de Desenvolvimento.
 ---
