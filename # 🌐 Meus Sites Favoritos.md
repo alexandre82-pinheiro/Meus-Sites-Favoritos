@@ -52,11 +52,14 @@ Meus-Sites-Favoritos/
 ├── uol.png
 └── README.md
 
+---
+
 📥 Como Executar o Projeto
 
 1. Clonar ou Baixar o Repositório:
 
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+
 2. Executar no Navegador:
 
 Navegue até a pasta do projeto no seu computador.
@@ -69,3 +72,4 @@ Opcional: Se estiver usando o VS Code, clique com o botão direito sobre o arqui
 Desenvolvido por Alexandre Pinheiro dos Santos
 
 Estudante de Sistemas de Desenvolvimento.
+---
