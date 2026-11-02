@@ -42,7 +42,6 @@ O projeto foi construído atendendo aos seguintes requisitos de estrutura HTML:
 
 Para que as imagens e o código funcionem perfeitamente, o repositório está organizado da seguinte forma:
 
-```text
 Meus-Sites-Favoritos/
 ├── index.html
 ├── wikipedia.png
@@ -51,6 +50,7 @@ Meus-Sites-Favoritos/
 ├── Logo_Vaga-lume.jpg
 ├── uol.png
 └── README.md
+
 ```text
 ---
 
