@@ -51,9 +51,13 @@ Meus-Sites-Favoritos/
 ├── Logo_Vaga-lume.jpg
 ├── uol.png
 └── README.md
+
 📥 Como Executar o Projeto
+
 Clonar ou Baixar o Repositório:
+
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+
 Executar no Navegador:
 
 Navegue até a pasta do projeto.
@@ -63,6 +67,6 @@ Dê um duplo clique no arquivo index.html para abri-lo no seu navegador padrão.
 Opcional: Se estiver usando o VS Code, clique com o botão direito sobre o arquivo index.html e selecione "Open with Live Server".
 
 👨‍💻 Autor
-Desenvolvido por Alexandre Pinheiro dos Santos
+Desenvolvido por Alexandre Pinheiro
 
 Estudante de Sistemas de Desenvolvimento (ETEC).
