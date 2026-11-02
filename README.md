@@ -68,6 +68,6 @@ Dê um duplo clique no arquivo index.html para abri-lo diretamente no seu navega
 Opcional: Se estiver usando o VS Code, clique com o botão direito sobre o arquivo index.html e selecione "Open with Live Server".
 
 👨‍💻 Autor
-Desenvolvido por Alexandre Pinheiro dos Santos
+Desenvolvido por Alexandre Pinheiro
 
 ---
